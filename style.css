@@ -1,6 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background: url('images/laughing-image1.jpg') no-repeat center center fixed;
+    background-size: cover;
     text-align: center;
     padding: 50px;
 }
@@ -8,6 +9,7 @@ body {
 .container {
     background: #fff;
     padding: 20px;
+    margin-top: 26vh;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     display: inline-block;
